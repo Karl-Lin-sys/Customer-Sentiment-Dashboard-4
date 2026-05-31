@@ -1,0 +1,6 @@
+{
+  "name": "Customer Sentiment Dashboard",
+  "description": "Analyze customer reviews with AI to visualize sentiment trends, identify key themes, and get actionable insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
